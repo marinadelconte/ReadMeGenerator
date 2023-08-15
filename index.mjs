@@ -24,9 +24,10 @@ let {title, description, license} = await inquirer
 
     ])
 
-let readmeText = `#${title}
+let readmeText = `
+# ${title}
 
-##g Project Description
+## Project Description
 ${description}
 
 ## License
