@@ -75,7 +75,7 @@ ${contributing}
 ${test}
 
 ## Questions
-If you have any questions regarding this project, please contact me at ${github} or email me at ${email}.
+If you have any questions regarding this project, please visit my Github profile at ${github} or email me at ${email} for additional information.
 
 `
 
