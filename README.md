@@ -20,5 +20,5 @@ Marina Del Conte
 Several tests were conducted in the terminal to ensure that this was working and functioning as expected.
 
 ## Questions
-If you have any questions regarding this project, please contact me at https://github.com/marinadelconte/ or email me at marinadelconte@yahoo.com.
+If you have any questions regarding this project, please visit my Github profile at https://github.com/marinadelconte/ or email me at marinadelconte@yahoo.com for additional information.
 
