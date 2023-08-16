@@ -12,6 +12,7 @@ Run `node index.mjs` and answer the questions in the terminal to complete the Re
 
 ## Usage
 This is intended to speed up the process of working on a ReadMe when submitting assignments and projects to Github.
+To see this application in use, please visit the following link: https://drive.google.com/file/d/1PQhGyjpAUGI9T86ZX_Z2qTTp4USpGMO9/view
 
 ## Contributing
 Marina Del Conte
