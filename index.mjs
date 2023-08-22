@@ -56,6 +56,15 @@ let {title, description, license, installation, usage, contributing, test, githu
 let readmeText = `
 # ${title}
 
+## Table of Contents
+*[Description] #Description
+*[License] #License
+*[Installation] #Installation
+*[Usage] #Usage
+*[Contributing] #Contributing
+*[Test] #Test
+*[Questions] #Questions
+
 ## Project Description
 ${description}
 
