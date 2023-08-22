@@ -3,14 +3,27 @@
 
 ## Table of Contents
 *[Description](#Description)
-*[License](#License)
-*[Installation](#Installation)
-*[Usage](#Usage)
-*[Contributing](#Contributing)
-*[Test](#Test)
-*[Questions](#Questions)
+##Description
 
-## Project Description
+*[License](#License)
+##License
+
+*[Installation](#Installation)
+##Installation
+
+*[Usage](#Usage)
+##Usage
+
+*[Contributing](#Contributing)
+##Contributing
+
+*[Test](#Test)
+##Test
+
+*[Questions](#Questions)
+##Questions
+
+## Description
 The ReadMe Generator helps users create a ReadMe for their projects by prompting them through a series of questions. As they provide responses to the questions, the info they provide will be pulled into a ReadMe document.
 
 ## License
@@ -30,4 +43,3 @@ Several tests were conducted in the terminal to ensure that this was working and
 
 ## Questions
 If you have any questions regarding this project, please visit my Github profile at https://github.com/marinadelconte or email me at marinadelconte@yahoo.com for additional information.
-

@@ -58,14 +58,27 @@ let readmeText = `
 
 ## Table of Contents
 *[Description](#Description)
-*[License](#License)
-*[Installation](#Installation)
-*[Usage](#Usage)
-*[Contributing](#Contributing)
-*[Test](#Test)
-*[Questions](#Questions)
+##Description
 
-## Project Description
+*[License](#License)
+##License
+
+*[Installation](#Installation)
+##Installation
+
+*[Usage](#Usage)
+##Usage
+
+*[Contributing](#Contributing)
+##Contributing
+
+*[Test](#Test)
+##Test
+
+*[Questions](#Questions)
+##Questions
+
+## Description
 ${description}
 
 ## License
@@ -85,7 +98,6 @@ ${test}
 
 ## Questions
 If you have any questions regarding this project, please visit my Github profile at ${github} or email me at ${email} for additional information.
-
 `
 
 
