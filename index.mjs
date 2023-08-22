@@ -57,27 +57,15 @@ let readmeText = `
 # ${title}
 
 ## Table of Contents
-*[Description](#Description)
-##Description
-
-*[License](#License)
-##License
-
-*[Installation](#Installation)
-##Installation
-
-*[Usage](#Usage)
-##Usage
-
-*[Contributing](#Contributing)
-##Contributing
-
-*[Test](#Test)
-##Test
-
-*[Questions](#Questions)
-##Questions
-
+  
+  * [Description](#description)
+  * [License](#license)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions) 
+  
 ## Description
 ${description}
 
@@ -93,7 +81,7 @@ ${usage}
 ## Contributing
 ${contributing}
 
-## Test
+## Tests
 ${test}
 
 ## Questions
