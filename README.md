@@ -2,13 +2,13 @@
 # ReadMe Generator
 
 ## Table of Contents
-*[Description] #Description
-*[License] #License
-*[Installation] #Installation
-*[Usage] #Usage
-*[Contributing] #Contributing
-*[Test] #Test
-*[Questions] #Questions
+*[Description](#Description)
+*[License](#License)
+*[Installation](#Installation)
+*[Usage](#Usage)
+*[Contributing](#Contributing)
+*[Test](#Test)
+*[Questions](#Questions)
 
 ## Project Description
 The ReadMe Generator helps users create a ReadMe for their projects by prompting them through a series of questions. As they provide responses to the questions, the info they provide will be pulled into a ReadMe document.
